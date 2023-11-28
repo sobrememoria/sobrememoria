@@ -26,6 +26,8 @@
 		width: 100%;
 		bottom: 0;
 		justify-content: center;
+		background-color: #fff;
+		padding: 20px 0;
 	}
 	.sponsor-banner__wrapper {
 		display: flex;
