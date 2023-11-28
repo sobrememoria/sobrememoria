@@ -9,7 +9,7 @@
 		<div class="sponsor-main">
 			<div class="container">Ministério da Cultura e Porto seguro apresentam</div>
 		</div>
-		<div class="header">
+		<div class="header-nav">
 			<div class="container">
 				<h1 class="logo">
 					<a href="/"
@@ -29,9 +29,10 @@
 		</div>
 	</header>
 	<main><slot /></main>
-	<footer>
-		<SponsorBanner />
+	<footer class="footer">
+		<div class="container">Copyright © Bob Wolfenson 2023</div>
 	</footer>
+	<SponsorBanner />
 </div>
 
 <style lang="scss">

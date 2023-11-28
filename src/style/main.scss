@@ -2,7 +2,7 @@
 @import './variables.scss';
 
 body {
-  font-family: 'Panel Sans', -apple-system,
+  font-family: 'Panel Sans','PanelSans', -apple-system,
     BlinkMacSystemFont,
     "Segoe UI",
     Roboto,
@@ -15,7 +15,7 @@ body {
     "Segoe UI Symbol",
     "Noto Color Emoji";
   font-size: 13px;
-  line-height: 1.5;
+  line-height: 1.7;
   color: $shade-900;
 }
 
@@ -31,7 +31,7 @@ body {
   font-size: 11px;
   padding: .2rem 0;
 }
-.header {
+.header-nav {
   background-color: $shade-500;
   height: 40px;
   position: relative;
@@ -49,6 +49,20 @@ body {
   }
 }
 
+.wrapper {
+  padding-bottom: 120px;
+}
 
+.content {
+  &__main {
+    max-width: 630px;
+  }
+}
 
-
+.footer {
+  background-color: $shade-500;
+  margin-top: 2rem;
+  position: relative;
+  color: $shade-100;
+  padding: 1rem 0;
+}
