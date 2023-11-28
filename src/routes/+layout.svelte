@@ -1,4 +1,5 @@
 <script>
+	import SponsorBanner from '$lib/components/SponsorBanner.svelte';
 	import Nav from '$lib/components/nav.svelte';
 	import '../style/main.scss';
 </script>
@@ -29,7 +30,7 @@
 	</header>
 	<main><slot /></main>
 	<footer>
-		<div class="sponsor">regua</div>
+		<SponsorBanner />
 	</footer>
 </div>
 
