@@ -13,12 +13,12 @@
 		<button slot="prev" on:click={showPrevPage} class="custom-arrow custom-arrow-prev">
 			<i />
 		</button>
-		<SlideHome kicker="Kicker 1" image="https://picsum.photos/seed/1/1280/510" />
-		<SlideHome kicker="Kicker 2" image="https://picsum.photos/seed/2/1280/510" />
-		<SlideHome kicker="Kicker 3" image="https://picsum.photos/seed/4/1280/510" />
-		<SlideHome kicker="Kicker 4" image="https://picsum.photos/seed/5/1280/510" />
-		<SlideHome kicker="Kicker 5" image="https://picsum.photos/seed/3/1280/510" />
-		<SlideHome kicker="Kicker 6" image="https://picsum.photos/seed/6/1280/510" />
+		<SlideHome kicker="O processo" image="https://picsum.photos/seed/1/1280/510" />
+		<SlideHome kicker="Passo-a-passo" image="https://picsum.photos/seed/2/1280/510" />
+		<SlideHome kicker="quem é quem" image="https://picsum.photos/seed/4/1280/510" />
+		<SlideHome kicker="A recuperação" image="https://picsum.photos/seed/5/1280/510" />
+		<SlideHome kicker="Mini-doc" image="https://picsum.photos/seed/3/1280/510" />
+		<SlideHome kicker="Fotografias" image="https://picsum.photos/seed/6/1280/510" />
 		<button slot="next" on:click={showNextPage} class="custom-arrow custom-arrow-next">
 			<i />
 		</button>

@@ -24,5 +24,6 @@
 		font-size: 12px;
 		text-transform: uppercase;
 		letter-spacing: 4px;
+		white-space: nowrap;
 	}
 </style>
