@@ -20,9 +20,9 @@
     They are acting like a real hamburger,
     not that McDonalds stuff.
     -->
-		<span></span>
-		<span></span>
-		<span></span>
+		<span class="bar"></span>
+		<span class="bar"></span>
+		<span class="bar"></span>
 
 		<!--
     Too bad the menu has to be inside of the button
@@ -45,30 +45,65 @@
 				>
 				<ul>
 					<li>
-						<a href="/">→ HOME</a>
+						<a href="/"><span class="arrow">→</span> Home</a>
 					</li>
 					<li>
-						<a href="/about">→ O PROCESSO</a>
+						<a href="/o-processo"><span class="arrow">→</span> O processo</a>
 					</li>
 					<li>
-						<a href="/contact">→ PASSO-A-PASSO</a>
+						<a href="/passo-a-passo"><span class="arrow">→</span> Passo-a-passo</a>
 					</li>
 					<li>
-						<a href="/contact">→ QUEM É QUEM</a>
+						<a href="/quem-e-quem"><span class="arrow">→</span> Quem é quem</a>
 					</li>
 					<li>
-						<a href="/contact">→ MInI-DOC</a>
+						<a href="/mini-doc"><span class="arrow">→</span> Mini-doc</a>
 					</li>
 					<li>
-						<a href="/contact">→ FOToGRAFIAS</a>
+						<a href="/fotografias"><span class="arrow">→</span> Fotografias</a>
 					</li>
 					<li>
-						<a href="/contact">→ PASSO-A-PASSO</a>
-					</li>
-					<li>
-						<a href="https://erikterwan.com/" target="_blank">Show me more</a>
+						<a href="/creditos"><span class="arrow">→</span> Créditos</a>
 					</li>
 				</ul>
+				<div class="menu-footer">
+					<a href="/downloads/manual.pdf">
+						<div class="item">
+							<div>
+								<svg
+									data-name="Isolation Mode"
+									xmlns="http://www.w3.org/2000/svg"
+									width="24"
+									height="24"
+									viewBox="0 0 24 24"
+									><path
+										d="M2 13.5h2v5h16v-5h2v5c0 1.11-.89 2-2 2H4a2 2 0 0 1-2-2v-5m10 3 5.55-5.46-1.42-1.41L13 12.75V3.5h-2v9.25L7.88 9.63l-1.42 1.42L12 16.5Z"
+										style="fill:#333;stroke-width:0"
+									/><path style="stroke-width:0;fill:none" d="M0 0h24v24H0z" /></svg
+								>
+							</div>
+							Manual de Salvamento Download [PDF]
+						</div>
+					</a>
+					<a href="/downloads/manual.pdf">
+						<div class="item">
+							<div>
+								<svg
+									data-name="Isolation Mode"
+									xmlns="http://www.w3.org/2000/svg"
+									width="24"
+									height="24"
+									viewBox="0 0 24 24"
+									><path style="stroke-width:0;fill:none" d="M0 0h24v24H0z" /><path
+										d="M14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.84-5 6.7v2.07c4-.91 7-4.49 7-8.77s-3-7.86-7-8.77M16.5 12c0-1.77-1-3.29-2.5-4.03V16c1.5-.71 2.5-2.24 2.5-4M3 9v6h4l5 5V4L7 9H3Z"
+										style="fill:#333;stroke-width:0"
+									/></svg
+								>
+							</div>
+							Áudio completo<br />da cartilha [MP3]
+						</div>
+					</a>
+				</div>
 			</div>
 		{/if}
 	</div>
@@ -86,6 +121,7 @@
 
 		-webkit-user-select: none;
 		user-select: none;
+		font-weight: bold;
 	}
 
 	#menuToggle input {
@@ -107,14 +143,14 @@
 	/*
  * Just a quick hamburger
  */
-	#menuToggle span {
+	#menuToggle span.bar {
 		display: block;
 		width: 33px;
 		height: 4px;
 		margin-bottom: 5px;
 		position: relative;
 
-		background: #000;
+		background: $shade-900;
 		border-radius: 3px;
 
 		z-index: 1;
@@ -127,11 +163,11 @@
 			opacity 0.55s ease;
 	}
 
-	#menuToggle span:first-child {
+	#menuToggle span.bar:first-child {
 		transform-origin: 0% 0%;
 	}
 
-	#menuToggle span:nth-last-child(2) {
+	#menuToggle span.bar:nth-last-child(2) {
 		transform-origin: 0% 100%;
 	}
 
@@ -167,11 +203,13 @@
  */
 	#menu {
 		position: absolute;
-		width: 350px;
+		width: 250px;
 		margin: 5px 0 0 0;
-		padding: 50px;
-		padding-top: 125px;
+		padding: 25px;
+		padding-top: 25px;
 		right: -50px;
+		border: 5px solid $shade-100;
+		top: -18px;
 
 		background: $shade-500;
 		list-style-type: none;
@@ -183,13 +221,20 @@
 
 		transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
 		a {
-			color: #fff;
+			color: $shade-100;
 		}
 	}
 
+	#menu a {
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
 	#menu ul li {
-		padding: 10px 0;
-		font-size: 22px;
+		padding: 5px 0;
+		font-size: 16px;
+		display: flex;
+		align-items: center;
 	}
 
 	/*
@@ -206,6 +251,23 @@
 			opacity: 0;
 
 			transition: opacity 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+		}
+	}
+	#menu {
+		.menu-footer {
+			margin-top: 36px;
+			display: flex;
+			flex-direction: column;
+			gap: 1rem;
+			line-height: 1.5;
+			a {
+				color: $shade-900;
+			}
+			.item {
+				display: flex;
+				align-items: start;
+				gap: 1rem;
+			}
 		}
 	}
 </style>
