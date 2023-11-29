@@ -2,6 +2,9 @@
 	import SponsorBanner from '$lib/components/SponsorBanner.svelte';
 	import Nav from '$lib/components/nav.svelte';
 	import '../style/main.scss';
+	import PageTransition from './transition.svelte';
+
+	export let data;
 </script>
 
 <div class="wrapper">
@@ -28,7 +31,11 @@
 			<div class="container">um acervo em resgate</div>
 		</div>
 	</header>
-	<main><slot /></main>
+	<main>
+		<PageTransition url={data.url}>
+			<slot />
+		</PageTransition>
+	</main>
 	<footer class="footer">
 		<div class="container">Copyright © Bob Wolfenson 2023</div>
 	</footer>
