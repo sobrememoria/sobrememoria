@@ -17,7 +17,7 @@
 			<div>
 				<div class="card">
 					<div class="image">
-						<img src="https://picsum.photos/seed/1/195/144" alt="Foto" />
+						<img src="/o-processo/2.jpg" alt="Foto" />
 					</div>
 					<div class="body">
 						<h3 class="title">o processo</h3>
@@ -94,6 +94,17 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+		.image {
+			max-width: 195px;
+			aspect-ratio: 195/144;
+			margin-bottom: 0.5em;
+			img {
+				aspect-ratio: 195/144;
+				width: 100%;
+				height: auto;
+				object-fit: cover;
+			}
+		}
 		.title {
 			font-size: 11px;
 			font-weight: 700;

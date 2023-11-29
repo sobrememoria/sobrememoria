@@ -13,7 +13,7 @@
 		<button slot="prev" on:click={showPrevPage} class="custom-arrow custom-arrow-prev">
 			<i />
 		</button>
-		<SlideHome kicker="O processo" image="https://picsum.photos/seed/1/1280/510" />
+		<SlideHome kicker="O processo" image="/o-processo/1.jpg" />
 		<SlideHome kicker="Passo-a-passo" image="https://picsum.photos/seed/2/1280/510" />
 		<SlideHome kicker="quem é quem" image="https://picsum.photos/seed/4/1280/510" />
 		<SlideHome kicker="A recuperação" image="https://picsum.photos/seed/5/1280/510" />

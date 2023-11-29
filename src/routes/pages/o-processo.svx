@@ -1,0 +1,154 @@
+---
+kicker: O processo
+title: Acompanhe os principais momentos do processo, da enchente à recuperação
+description: First post.
+---
+
+<script>
+import Image from '../../lib/components/Image.svelte';
+import Article from '../../lib/components/Article.svelte';
+import Quote from '../../lib/components/Quote.svelte';
+</script>
+
+
+<Image credit="Foto Helena Wolfenson" caption="Uma das salas do estúdio da Vila Leopoldina, em São Paulo, em fevereiro de 2020, após a enchente" image="/o-processo/1.jpg" />
+
+<Article letter="a" subtitle="A enchete e o susto">
+
+Em maio de 2005, apenas cinco meses depois de se mudar com sua equipe para um estúdio na Vila Leopoldina, na zona oeste de São Paulo, o fotógrafo Bob Wolfenson viu o espaço ser completamente invadido pela água. Na ocasião, perdeu parte expressiva do acervo e teve que sair de barco do estúdio.
+
+O desastre, porém, não o levou a fazer mudanças estruturais no espaço. Quinze anos depois, veio outra catástrofe. Na madrugada de 10 de fevereiro de 2020, uma segunda-feira, as águas de um temporal voltaram a ocupar seu estúdio.
+
+A capital paulista vivia dias de alagamentos, desmoronamentos, quedas de árvores e caos no trânsito. Os rios Tietê e Pinheiros transbordaram. Bob só conseguiu entrar no local por volta de meio-dia do dia seguinte, ou seja, quase 36 horas depois. “Meu estúdio ficou devastado, parecia cenário de pós-guerra. Sofá de cabeça para baixo, livros no chão, lama por tudo quanto é lado. A água alcançou mais de um metro de altura”, afirmou à reportagem do jornal Folha de S.Paulo.
+
+<Image caption="Foto publicada por Bob nas redes sociais que chamou a atenção de Burgi, do IMS" image="/o-processo/2.jpg" />
+
+“Foi um vacilo, um erro de cálculo. Eu não tirei as coisas do estúdio porque não imaginei que isso pudesse acontecer novamente”, lembra o fotógrafo.
+
+Os materiais fotográficos (filmes e contatos) estavam guardados em gaveteiros de aço, acondicionados em pastas suspensas, como se faz habitualmente. Cerca de 60% do acervo com materiais fotográficos que estavam armazenados nesses gaveteiros foi diretamente afetado.
+
+Em uma rede social, Bob publicou uma foto com carros, perto do seu estúdio, praticamente debaixo da água e relatou o episódio. Chamou a atenção de Sergio Burgi, coordenador de fotografia do IMS (Instituto Moreira Salles), que ligou para Bob e avisou que mobilizaria colegas para uma operação emergencial a fim de tentar salvar o acervo.
+
+Não um acervo qualquer. Ali estavam quase 50 anos de fotografias: retratos, editoriais de moda, ensaios de nus, registros urbanos, entre outros caminhos tomados por um profissional inquieto.
+
+A água já tinha baixado um pouco, mas havia lama por todos os lados quando Leandro Melo, um dos especialistas acionados pelo IMS, chegou ao estúdio na avenida Mofarrej.
+
+O conservador-restaurador especializado em fotografia mal teve tempo de observar os detalhes –não é exagero dizer que, àquela altura, cada minuto fazia diferença. “Quando o material fica em contato com uma umidade relativa maior do que 65% por mais de 48 horas, em ambiente com uma temperatura maior que 20ºC, é provável que ocorra a proliferação de fungos”, explica Juliana Bittencourt, também conservadora-restauradora de fotografia.
+
+Juliana não pôde participar dessa primeira etapa emergencial, mas se dedicou a esse acervo três anos depois, como veremos mais adiante.
+
+<Quote author="Leandro Melo">Desci na estação Vila Leopoldina e entrei na avenida Mofarrej, onde ficava o estúdio do Bob. Foi quando comecei a ver o tamanho do estrago. Tinha um guincho tirando um carro de um estacionamento no subsolo, tinha marca de água de um metro e meio de altura nas paredes</Quote>
+
+<Quote hideQuote author="Talita Rennó">O Leandro me ligou perguntando se eu poderia ir ao estúdio do Bob o quanto antes. A gente se conhecia há bastante tempo: ele tinha sido meu professor no Senac e depois trabalhamos juntos. Respondi que sim, estava indo. Da estação Vila Leopoldina ao estúdio, foram 20 minutos andando em meio ao desespero. Havia lama por todos os lados, carros ainda cheios de água
+</Quote>
+
+</Article>
+
+<Image credit="Foto Helena Wolfenson" caption="Uma das salas do estúdio da Vila Leopoldina, em São Paulo, em fevereiro de 2020, após a enchente" image="/o-processo/3.jpg" />
+
+
+<Article letter="b" subtitle="A UTI do acervo">
+
+“Montamos uma UTI (Unidade de Terapia Intensiva) do acervo”, disse Bob em entrevista à Folha sobre toda a movimentação para salvar o seu acervo.
+
+Como era preciso correr contra o tempo para evitar que os fungos tomassem conta do acervo, cerca de 20 especialistas se mobilizaram no período de 11 a 17 de fevereiro. Não raro eles chegavam muito cedo e saíam tarde da noite. Também participaram da operação o próprio fotógrafo, Aline Os, Cris Kehl, Cristiane Favacho e Mariza Guimarães.
+
+A coordenação de todo o trabalho emergencial coube, sobretudo, a Leandro Melo e a Gabriella Moyle, que viera do IMS do Rio e mantinha contato permanente com Sergio Burgi.
+
+“Num primeiro momento, buscamos entender a dimensão do acervo e logo percebemos que vários materiais tinham sido muito comprometidos, como livros e impressões em jatos de tinta, que estavam numa mapoteca”, lembra Leandro. Dezenas de itens bastante danificados foram imediatamente descartados pelo fotógrafo.
+
+No entanto, algumas imagens com alto grau de deterioração foram preservadas. “Eu percebi que havia essa graça das fotos que adquirem um outro sentido, uma outra materialidade”, recorda-se Bob.
+
+Havia também pastas suspensas nos gaveteiros, que continham milhares de negativos e folhas de contato. Nessa área do estúdio, a chance de recuperação parecia maior, o que se comprovou uma realidade mais tarde. Mas isso só funcionaria com uma ação ampla de congelamento.
+
+“Como era uma quantidade grande e não daria tempo de lavar e secar tudo, decidimos congelar esses materiais. Nesse estado, as reações químicas, que levam à deterioração, entram numa velocidade bem baixa. E assim é possível descongelar mais adiante, na medida da capacidade de secagem”, explica o conservador.
+
+O primeiro passo: comprar um freezer urgentemente. “Não existia freezer para pronta-entrega. Rodei a cidade inteira e só achei um no Ponto Frio da marginal Tietê. O atendente só conseguiu me vender na hora porque o aparelho estava amassado”, lembra Bob. “Passaram dois ou três dias, e o Leandro me falou: ‘Precisamos de um outro freezer’. Fiz a mesma coisa e deu certo.”
+
+O ideal, como explicou Sergio Burgi, teria sido comprar freezers verticais, que distribuem melhor o peso das cartelas fotográficas. Mas como havia pouquíssimo tempo, optou-se pelos mais fáceis de encontrar no mercado, os aparelhos horizontais –por isso, foram utilizadas caixas plásticas para melhor distribuir o peso no interior do freezer.
+
+No estúdio da Vila Leopoldina, a equipe procurou distribuir bem as funções. Caetana Britto e Fernanda Auada, restauradoras especializadas em papel, se dedicaram mais aos livros e às revistas. Os demais se concentraram nos suportes fotográficos.
+
+Feita a divisão por tipo de material, havia os subgrupos. A equipe de resgate dos materiais fotográficos dedicou-se, inicialmente, a separar papéis fotográficos (cópias contato e ampliações) e cartelas com filmes, que originalmente estavam reunidos nas pastas suspensas. Na medida em que as pastas eram retiradas da gaveta, uma parte da equipe se dedicava a acondicionar as cartelas de filmes em sacos plásticos para o congelamento desse material. As folhas de papel fotográfico eram depositadas em bandejas fundas, com água limpa. Quando cheias, as bandejas eram levadas por outra parte da equipe para um tanque. Os papéis fotográficos eram lavados em água corrente e depois secos em varais improvisados.
+
+“O trabalho principal da minha equipe era tirar o excesso de lama das cartelas de filmes, colocar nos pacotes e identificar seu conteúdo para que, depois, a gente soubesse o que era esse material”, lembra Talita Rennó, conservadora-restauradora que esteve naqueles dias de tensão em 2020 e, três anos depois, voltou a trabalhar na recuperação do acervo.
+
+Toda aquela mobilização foi facilitada pelo fato de o acervo ter passado algum tempo antes por um processo de organização e classificação. Segundo o conservador, “existiam informações sobre o que estava em cada lugar, além de registros nas embalagens que tinham os filmes e as folhas de contato. Havia um código que identificava qual era o ensaio. Assim, nós sabíamos onde estavam os itens mais importantes”.
+
+Leandro havia tido duas experiências prévias com alguma semelhança com a inundação do estúdio: uma delas no Museu da Energia, espaço tomado pela água após o rompimento de uma tubulação, em 2008; e outra na Bienal de São Paulo, neste caso o que ele chama de “oficina de salvamento”, com uma simulação de alagamento, em 2016.
+
+Para o conservador, esses episódios anteriores foram úteis para que “a gente tivesse essa clareza em relação à necessidade de identificar o que é prioritário e o que não é”. Um exemplo: como o acervo havia sido catalogado, foi possível identificar os materiais mais importantes para o fotógrafo, que foram os primeiros a receber tratamento pela equipe.
+
+O desastre de 2020, porém, trouxe surpresas, como o comportamento das fotografias instantâneas (Polaroid). Bolhas se formavam sobre elas após o contato com a água, provocando danos irreversíveis. Mais grave foi a dificuldade de dimensionar o tamanho do acervo e o tempo para executar as tarefas.
+
+Ou seja, evidentemente a experiência era útil em meio ao corre-corre no estúdio, mas, junto com a água, vinha uma enxurrada de novidades.
+
+Depois de cinco intensos dias de trabalho, os dois freezers estavam completamente lotados. Boa parte do material foi armazenado adequadamente, passando por uma limpeza superficial e acondicionamento em sacos plásticos para posterior congelamento, com a notação do que havia no interior daquele pacote. Uma porção, no entanto, foi congelada sem esses cuidados básicos. O tempo, implacável, se impunha.
+
+<Quote author="Bob Wolfenson">Num primeiro momento depois da enchente, comecei a rasgar as fotos em papel e jogar fora. Não seria possível restaurá-las. Até que, num determinado instante, percebi que algumas imagens estavam fortes, interessantes. Eram um testemunho</Quote>
+
+<Quote hideQuote author="Leandro Melo">O congelamento reduz muito a proliferação de fungos, que podem manchar o material ou levá-lo ao apodrecimento. Além disso, podem causar risco para a saúde das pessoas
+</Quote>
+</Article>
+
+<Image credit="Foto Bob Wolfenson" caption="Sala do fotógrafo invadida pela água" image="/o-processo/4.jpg" />
+
+
+<Article letter="c" subtitle="A caminho da recuperação">
+
+Encerrada a força-tarefa no estúdio, o objetivo de Bob era retomar a recuperação do acervo o quanto antes. No entanto, surgiram novos obstáculos.
+Foram pelo menos três as pedras no caminho:
+
+1. a pandemia de Covid-19, que, entre outras coisas, inviabilizou ou ao menos dificultou trabalhos presenciais em equipe;
+
+2. o alto custo de um projeto rigoroso de recuperação do acervo;
+
+3. o risco de iniciar um processo desse tipo sem a clareza de que haveria uma quantidade expressiva de itens com plenas condições de recuperação.
+
+Entre os desafios, esse último foi o primeiro a ser vencido. Especialistas do IMS levaram para o Rio de Janeiro alguns pacotes com materiais que haviam sido congelados. O tratamento da maioria dos itens foi realizado em 2020, mas um último lote recebeu tratamento apenas em 2022. O resultado, lembra Bob, foi surpreendentemente positivo: em geral, a perda tinha sido de apenas 5%. “Foi uma iniciativa muito inteligente e gentil da parte deles”, diz o fotógrafo.
+
+Feita essa avaliação, ele se sentiu mais confiante para buscar um apoio externo. Recorreu a um especialista em leis de incentivo e, mais uma vez, a Leandro para que preparassem um projeto com todas as orientações técnicas necessárias. Foi um longo caminho até que, após a aprovação do projeto pelo Programa Nacional de Apoio à Cultura (Pronac), a empresa Porto Seguro decidiu colaborar para que a ideia saísse do papel.
+
+Nesse vai-e-vem burocrático, também foi relevante o trabalho da produtora Morena Carvalho.
+
+O desafio do alto custo parecia, enfim, superado. Além disso, a essa altura, a pandemia já não representava tanto perigo quanto antes.
+A segunda e mais longa etapa de recuperação estava, enfim, num horizonte próximo. Como seria de se esperar, Bob convidou Leandro para coordenar essa jornada, mas o conservador já estava comprometido com o projeto Manuel Corrêa de Andrade, um extenso acervo de livros doados ao IEB (Instituto de Estudos Brasileiros) da USP.
+
+Leandro, porém, colaborou montando a equipe que trabalharia com o acervo de Bob. Talita Rennó (“que já trabalhou em diversos projetos comigo”) era um nome pensado desde as primeiras conversas. Ele também convidou Juliana Bittencourt (“uma profissional de formação super sólida”) para coordenar a equipe.
+
+Ambas são conservadoras-restauradoras, faltava uma documentalista com experiência em acervos fotográficos e artísticos, alguém que fizesse o tratamento da informação. Fernanda Cicero de Sá foi, então, convidada para a função. Definido o trio que trabalharia no dia-a-dia, Leandro acompanharia o projeto como consultor.
+
+<Quote author="Bob Wolfenson">O meu acervo é muito vivo, é muito requisitado. E eu o reconecto com o presente. Então, essa sobrevivência é importante </Quote>
+
+<Quote hideQuote author="Leandro Melo">Essa experiência tem sido importante para entendermos o comportamento de diferentes materiais fotográficos em contato com a água. Quais são mais resistentes? Como devo transportá-los? O que pode e o que que não pode ser congelado?
+</Quote>
+<Quote hideQuote author="Juliana Bittencourt">Por meio desse trabalho, a gente acaba vendo como Bob passou por vários momentos da história da tecnologia da fotografia. Primeiro, o trabalho dele com fotografias analógicas. Em seguida, há um período em que produz concomitantemente fotografias analógicas e digitais. E depois migra totalmente para o digital. É muito aprendizado
+</Quote>
+
+</Article>
+
+<Image credit="Foto Helena Wolfenson" caption="Varal da restauração de 2023" image="/o-processo/5.jpg" />
+
+
+<Article letter="d" subtitle="Vida nova, enfim">
+
+A partir de junho de 2023, Juliana, Talita e Fernanda passaram a trabalhar juntas no estúdio de Bob e definiram métodos de acompanhamento para que não se perdessem em meio a tantos arquivos. Apesar da organização e do planejamento, o trabalho sempre esteve sujeito às surpresas, sejam maiores ou menores.
+
+“Há materiais que exigiram mais atenção nossa, que tiveram que ser retirados das embalagens com bisturi ou pinça”, conta Talita Rennó.
+
+O trabalho se estendeu por sete meses, de maio a dezembro de 2023, tempo insuficiente para recuperar todo acervo. Elas conseguiram dar vida nova a grande parte dos filmes fotográficos mais importantes da trajetória de Bob, que estavam guardados em um dos freezers. A tarefa de descongelar os materiais do outro freezer ficará para um período posterior.
+
+Orgulhosas do trabalho realizado, Juliana, Talita e Fernanda gostariam que todo esse repertório técnico, desenvolvido por elas e outros colegas de 2020 a 2023, servisse como referência daqui pra frente.
+
+“Não há um modelo único. Cada acervo tem características específicas, que exigem um planejamento pensado para aquela situação. Ainda assim, a gente queria que esse trabalho que fizemos aqui fosse visto como uma referência para instituições de memória e para outros fotógrafos”, diz Juliana.
+
+Depois de entrar em estado de coma, o acervo de Bob sobreviveu –ao menos, a maior parte dele. Graças aos conservadores-restauradores, a memória está viva.
+
+<Image credit="Foto Helena Wolfenson" caption="Negativos que passaram pelo processo de recuperação" image="/o-processo/6.jpg" />
+
+<Image credit="Foto Helena Wolfenson" caption="A conservadora-restauradora Juliana Bittencourt durante o trabalho em 2023" image="/o-processo/7.jpg" />
+
+<Image credit="Foto Helena Wolfenson" caption="O jovem Bob em duas fotos do seu acervo" image="/o-processo/8.jpg" />
+
+
+</Article>
