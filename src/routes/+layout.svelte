@@ -5,7 +5,7 @@
 </script>
 
 <div class="wrapper">
-	<header>
+	<header class="header">
 		<div class="sponsor-main">
 			<div class="container">Ministério da Cultura e Porto seguro apresentam</div>
 		</div>
@@ -36,4 +36,11 @@
 </div>
 
 <style lang="scss">
+	.header {
+		position: fixed;
+		top: 0;
+		width: 100%;
+		background-color: $shade-100;
+		z-index: 10000;
+	}
 </style>
