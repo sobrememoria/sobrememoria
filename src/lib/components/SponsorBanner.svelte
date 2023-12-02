@@ -2,19 +2,19 @@
 	<div class="sponsor-banner__wrapper">
 		<div class="sponsor">
 			<div class="tag"></div>
-			<img src="sponsors/lei-rouanet.png" alt="Logo" />
+			<img src="/images/sponsors/lei-rouanet.png" alt="Logo" />
 		</div>
 		<div class="sponsor">
 			<div class="tag">Patrocinio</div>
-			<img src="sponsors/porto.png" alt="Logo" />
+			<img src="/images/sponsors/porto.png" alt="Logo" />
 		</div>
 		<div class="sponsor">
 			<div class="tag">Realização</div>
-			<img src="sponsors/bob-wolfenson.png" alt="Logo" />
+			<img src="/images/sponsors/bob-wolfenson.png" alt="Logo" />
 		</div>
 		<div class="sponsor">
 			<div class="tag"></div>
-			<img src="sponsors/ministerio-cultura.png" alt="Logo" />
+			<img src="/images/sponsors/ministerio-cultura.png" alt="Logo" />
 		</div>
 	</div>
 </div>

@@ -1,0 +1,64 @@
+---
+kicker: passo-a-passo
+title: O trabalho da equipe de recuperação em 10 passos
+description: First post.
+---
+
+<script>
+import Image from '../../lib/components/Image.svelte';
+import Article from '../../lib/components/Article.svelte';
+</script>
+
+<Image credit="Foto Helena Wolfenson" caption="Bob wolfenson registra destruição após enchente" image="/images/passo-a-passo/01.jpg" />
+
+<Article letter="" subtitle="">
+<div class="space">
+  <div class="score"> 1 </div>
+  <div>Definição das prioridades de descongelamento, de acordo com os critérios de classificação de importância do acervo definidos com o fotógrafo</div>
+</div>
+<div class="space">
+  <div class="score"> 2 </div>
+  <div>Descongelamento do pacote de acordo com a ordem de prioridade: o pacote do freezer é retirado e descongelado gradualmente dentro de uma caixa térmica. Dessa forma, evitam-se danos mecânicos que poderiam ser provocados pela dilatação dos materiais em função do aumento brusco da temperatura</div>
+</div>
+<div class="space">
+  <div class="score"> 3 </div>
+  <div>Abertura do pacote e separação dos materiais fotográficos de acordo com seu suporte (filmes ou papéis fotográficos), polaridade (para os filmes diapositivos ou negativos), cromia (colorido ou preto e branco) e forma de acondicionamento original (diapositivos com moldura, embalagens plásticas ou de papel etc.)</div>
+</div>
+<div class="space">
+  <div class="score"> 4 </div>
+  <div>
+
+  Limpeza dos suportes fotográficos:
+
+  • Os filmes negativos e diapositivos são lavados em uma bandeja com água fria e filtrada e, em seguida, colocados em outra bandeja para enxágue final em solução umectante (com detergente específico para fotografia, que facilita o escorrimento da água, evitando a formação de manchas ao secar).
+
+  • Os diapositivos em molduras são primeiramente secos para que as molduras possam ser removidas com segurança. Em seguida, a limpeza é realizada na bancada, com solvente.
+
+  • Os papéis fotográficos são lavados em duas bandeja com água fria e filtrada
+  </div>
+</div>
+<div class="space">
+  <div class="score"> 5 </div>
+  <div>Para a secagem, são utilizados clipes de metal adaptados (para pendurar filmes com perfurações nas bordas) e prendedores de papel, fixados nas margens, para dispor os materiais para secagem em varais, em um ambiente com ventilação forçada, que incide de forma indireta sobre o material. O código de identificação de cada conjunto é escrito em um papel e disposto no varal, ao lado dos materiais </div>
+</div>
+<div class="space">
+  <div class="score"> 6 </div>
+  <div>Os materiais são retirados do varal e acondicionados em embalagens adequadas para a sua conservação, já com seus códigos de identificação</div>
+</div>
+<div class="space">
+  <div class="score"> 7 </div>
+  <div>É a etapa do diagnóstico. As características físicas (polaridade, cromia e formato), a quantidade de fotogramas e a avaliação dos danos de cada conjunto são registradas em planilha</div>
+</div>
+<div class="space">
+  <div class="score"> 8 </div>
+  <div>Digitalização de acesso. O registro digital dos negativos e diapositivos em suas embalagens é produzido para facilitar o acesso a seu conteúdo</div>
+</div>
+<div class="space">
+  <div class="score"> 9 </div>
+  <div>Os materiais são armazenados no mobiliário destinado à guarda do acervo </div>
+</div>
+<div class="space">
+  <div class="score"> 10 </div>
+  <div> Tratamento documental. A base de dados é atualizada com as informações do projeto e a localização física final das fotografias </div>
+</div>
+</Article>

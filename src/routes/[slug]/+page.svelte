@@ -44,8 +44,8 @@
 		font-size: 36px;
 		font-weight: 700;
 		line-height: 1.2;
-		margin: 0;
+		margin: 1rem 0 0 0;
 		padding: 0 36px;
-		font-size: 400;
+		font-weight: 400;
 	}
 </style>

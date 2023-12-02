@@ -1,0 +1,77 @@
+---
+kicker: A RECUPERAÇÃO
+title: Um acervo que, enfim, volta à vida
+description: First post.
+---
+
+<script>
+import Image from '../../lib/components/Image.svelte';
+import Article from '../../lib/components/Article.svelte';
+import Quote from '../../lib/components/Quote.svelte';
+</script>
+
+<Image caption="Ao fundo, diapositivo e negativo da série Antifachada" credit="Foto Helena Wolfenson" image="/images/a-recuperacao/01.jpg" />
+
+<Article>
+
+**por LEANDRO MELO, JULIANA BITTENCOURT, FERNANDA CICERO DE SÁ E TALITA RENNÓ**
+
+Apor Leandro Melo, Juliana Bittencourt, Fernanda Cicero de Sá e Talita Rennó
+Em maio de 2023, iniciamos o projeto para recuperação das fotografias de Bob Wolfenson que foram congeladas na ação de salvamento realizada em 2020.  Foram muitos os desafios e os encantos de trabalhar com o acervo de um dos fotógrafos mais importantes do Brasil. Uma parcela das fotografias analógicas que produziu entre 1974 e 2006 estava ali, nos diversos pacotes que ocupavam totalmente dois freezers.
+
+O que precisou ser congelado durante a ação de salvamento realizada em 2020? O que seria possível recuperar? O que significa recuperar? E, afinal, o congelamento, como uma estratégia para salvamento de fotografias atingidas por água, é eficaz?
+
+Negativos e diapositivos em uma diversidade de formatos, cópias fotográficas e uma variedade de impressões em jato de tinta haviam sido atingidas pela enchente por transbordamento do rio Pinheiros em 2020. Estavam armazenados em mapotecas e em armários de aço. A água  alcançou as gavetas da mapoteca mais próximas ao chão e 27 das 44 gavetas dos 11 armários de aço. Uma parte deste material se perdeu, outra parte precisou ser lavada em água corrente e seca ao ar e o restante dos materiais diretamente atingidos foi congelado.
+
+O objetivo principal do projeto era descongelar o que precisou ser congelado, mas, além desta atividade, que em si exigiu que pesquisássemos a melhor forma de realizá-la, foi necessário reunir muitas informações a respeito do acervo.
+Negativos e diapositivos haviam sido acondicionados, organizados e catalogados anteriormente em um projeto realizado por Isabel Amado. A catalogação havia sido realizada desde então por Aline Os na base de dados do acervo a partir de fichas técnicas que reúnem informações essenciais a respeito dos ensaios fotográficos.
+
+Estas fichas, organizadas em caixas tipo arquivo, eram o resultado de uma iniciativa do próprio fotógrafo, que começou a utilizá-las quando retornou ao Brasil depois de ser assistente de Bill King, em Nova York, inspirado nas fichas que o fotógrafo norte-americano elaborava.
+
+Em 2005 o acervo foi atingido por uma primeira enchente e, naquele momento, uma parte dos materiais se perdeu, estava indicado na base de dados: foram cerca de 21.000 fotografias. Faltaria, então, reconstituir o que havia acontecido na iniciativa de salvamento realizada em 2020, após o acervo ser atingido por uma segunda enchente. Os pacotes no interior dos freezers traziam as datas em que haviam sido congelados tornando ainda mais importante recuperar o histórico das ações e decisões tomadas durante o salvamento do acervo.
+
+Após o fotógrafo noticiar o ocorrido numa rede social, uma ação de salvamento reuniu ao menos nove voluntários, além de profissionais cedidos pelo Arquivo Histórico Wanda Svevo, da Fundação Bienal de São Paulo, do próprio estúdio de Bob Wolfenson e do Instituto Moreira Salles, que fez o chamamento inicial e coordenou a iniciativa.
+
+Na tarde de 11 de fevereiro, o salvamento do acervo foi iniciado com o reconhecimento dos materiais afetados, a avaliação dos danos e a definição de prioridades e formas de tratamento, ainda com muita água e lama no estúdio. Tinham sido afetadas uma sala com revistas, livros e uma mapoteca com cópias fotográficas e impressões em jato de tinta e duas outras salas com gaveteiros contendo pastas suspensas com filmes fotográficos acondicionados em cartelas plásticas e folhas de contato (papel fotográfico).
+
+<Image caption="Fernanda Cicero de Sá, Juliana Bittencourt e Talita Rennó" credit="Foto Helena Wolfenson"  image="/images/a-recuperacao/02.jpg" />
+
+A maioria das cópias fotográficas foram lavadas em água corrente e penduradas em varais improvisados. Realizar o mesmo tratamento com os filmes fotográficos, entretanto, era inviável devido à grande quantidade de material afetado diretamente pela água e ao risco de perder os códigos de identificação dos filmes ao separá-los de suas embalagens de acondicionamento.
+Mas os filmes fotográficos eram separados das folhas de contato, que eram submersas numa bandeja com água. Quando a bandeja estava cheia, era levada para outro local, onde as cópias eram lavadas individualmente em água corrente e depois penduradas em varais para secar.
+
+Os danos provocados pelo contato direto com a água variam em função dos materiais constitutivos das fotografias: as cópias fotográficas são mais suscetíveis a se degradar do que os filmes fotográficos, que podem ser, inclusive, congelados. Assim, cartelas de filmes fotográficos, ainda molhadas e sujas, foram embaladas em sacos de polietileno, etiquetadas com sua identificação e congeladas no primeiro freezer adquirido, que rapidamente ficou cheio.
+
+No terceiro dia de salvamento, outro freezer foi comprado para receber o material fotográfico restante. Os últimos materiais inseridos no freezer foram guardados depois de seis dias do início do salvamento. Naquela ocasião foram inseridos vários pacotes contendo papéis fotográficos (contatos e ampliações), devido à impossibilidade de realizar sua secagem naquele momento, já decorrido tanto tempo. Como esta operação não havia sido planejada, os papéis fotográficos foram embalados sem folhas intercaladoras de papel encerado, que precisam ser utilizadas para evitar a aderência entre os papéis fotográficos devido ao amolecimento da gelatina que compõe a camada da emulsão fotográfica.
+Tudo foi feito contra o tempo: a resposta a um desastre precisa ser organizada com urgência e ser executada, idealmente, em até 72 horas após a ocorrência do sinistro. Depois desse prazo, o risco dos materiais sofrerem danos irreversíveis é maior, assim como o risco de que ocorra contaminação microbiológica, o que pode provocar o amolecimento e a perda de emulsão fotográfica, além de manchas.
+
+Ao longo do projeto, nossas ações se conectariam às dos profissionais que haviam atuado na iniciativa de salvamento do acervo: na avaliação do que foi inevitavelmente danificado, do que pode ser recuperado naquele momento e do que poderíamos fazer para acessar novamente o que foi congelado ou, nas palavras de Bob, para fazer aquela parte do acervo “voltar à vida”.
+
+A água atingiu 27 das 44 gavetas dos 11 armários de aço
+
+Logo percebemos que isso seria feito junto com o fotógrafo, durante suas visitas à nossa sala, quando rememorava as pessoas retratadas e as histórias por trás daqueles retratos, quando nos pedia para que um conjunto de itens fosse reproduzido digitalmente com prioridade, quando perguntávamos a respeito de suas marcas de edição e até mesmo quando ele olhava para um material parcialmente danificado e pensava em formas de ressignificá-lo, como havia feito no ensaio Sub/emerso.
+
+Pudemos acompanhar Bob em sua procura pela sobrememória: “um escorrimento, impregnado na superfície”, por aquilo que conferiria uma memória sobreposta àquelas fotografias que “em si, já eram lembranças de outras épocas”.
+
+No início do projeto, enquanto preparávamos o espaço de trabalho e adquiríamos os materiais de consumo necessários, realizamos o diagnóstico de conservação do material que havia sido tratado previamente pelo Instituto Moreira Salles (IMS), avaliamos a base de dados e o estabelecemos o que seria prioritariamente descongelado: os materiais classificados como ensaio pessoal, ensaio retrato, editorial de moda, vida familiar.
+
+Após realizar alguns testes para definir como faríamos o descongelamento e avaliar o comportamento de pacotes congelados em diferentes datas, definimos os procedimentos daquele que seria o nosso fluxo de trabalho, listado acima em 10 etapas. Neste projeto, era importante registrar as datas de congelamento (anotadas nos pacotes do freezer) e descongelamento para conseguirmos avaliar a iniciativa de salvamento.
+
+Para isto, também definimos uma forma avaliar as perdas de emulsão nos filmes fotográficos: em conjunto com Bob determinamos que o nível 0 corresponderia a uma avaliação de que nenhuma perda havia ocorrido, o 1 a uma pequena perda, geralmente nas bordas, que não atingia a imagem, o 2 a uma perda maior, geralmente já na imagem, que já comprometia a visualização da imagem e 3, a um nível de perda maior de emulsão, próximo a uma perda total.
+
+Ao analisar a base de dados proprietária criada em 2001, constatamos que ao longo de mais de 20 anos, todo acervo de negativos e diapositivos havia sido catalogado, mas o sistema encontrava-se obsoleto e precisava ser atualizado para conter as informações do projeto e demais demandas de relacionamento entre as fotografias e as publicações, exposições e as cópias que integram o acervo artístico.
+
+Reconhecemos a importância de compartilhar orientações para atuação em caso de acidentes com água
+
+Definimos que o mais adequado e sustentável seria o desenvolvimento da base de dados Tainacan, por ser uma iniciativa pensada para atender a realidade de diferentes tipos de acervo. O Tainacan é um software livre e gratuito que permite a gestão e a publicação de acervos digitais. Nesse momento, iniciamos o estudo dos campos existentes na base de dados anterior para definir como seria feita a migração dos dados para a nova base e quais campos seriam incluídos Pensamos ainda nas diferentes necessidades do acervo de modo a criar um modelo de ficha adequado para cada um deles.
+
+Entendemos que, além daquela parcela acervo que foi diretamente atingido pela água, o restante do acervo também permaneceu em um ambiente com umidade relativa elevada e, portanto, também foi afetado, indiretamente. Ao avaliar os armários de aço identificamos oxidação no fundo das gavetas e também na base dos gaveteiros. Muitas pastas suspensas no interior dos gaveteiros estão com as hastes enferrujadas, algumas perderam o encaixe plástico e o papel de todas elas, confeccionadas em Kraft, já amareleceu.
+
+Dessa forma, propusemos rotinas de monitoramento do acervo, o que poderá ser feito através da análise dos dados coletados por um termohigrômetro, que monitora as condições de temperatura e umidade da sala na qual o acervo está armazenado, e do monitoramento com tiras medidoras de acidez (A-D Strips), desenvolvidas pelo Image Permanence Institute (IPI) do Rochester Institute of Technology (RIT), nos Estados Unidos.
+
+Além de recuperar o acervo, tornando-o acessível novamente, reconhecemos a importância de compartilhar com outras instituições, profissionais e demais interessados orientações para atuação em caso de acidentes com  água, com informações a respeito de métodos que podem ser empregados durante o salvamento de acervos fotográficos, dentre eles o congelamento.
+
+Acidentes com água podem ser provocados tanto por inundações e tempestades quanto por vazamentos em tubulações e até mesmo após incêndios, com a água utilizada pelos bombeiros para apagar as chamas. Além disso, acidentes desse tipo se tornam ainda mais frequentes com as mudanças climáticas em curso.
+
+É fundamental realizar treinamentos e contar com profissionais especializados para orientar ações de emergência, mas é igualmente importante valorizar o planejamento que visa minimizar o risco de que acidentes como os relatados aconteçam e o tratamento contínuo dos acervos. Esperamos também criar uma sobrememória de nossas ações, contribuindo com referências textuais e imagéticas para a preservação de outras memórias.
+
+</Article>

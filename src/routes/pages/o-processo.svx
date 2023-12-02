@@ -11,7 +11,7 @@ import Quote from '../../lib/components/Quote.svelte';
 </script>
 
 
-<Image credit="Foto Helena Wolfenson" caption="Uma das salas do estúdio da Vila Leopoldina, em São Paulo, em fevereiro de 2020, após a enchente" image="/o-processo/1.jpg" />
+<Image credit="Foto Helena Wolfenson" caption="Uma das salas do estúdio da Vila Leopoldina, em São Paulo, em fevereiro de 2020, após a enchente" image="/images/o-processo/01.jpg" />
 
 <Article letter="a" subtitle="A enchete e o susto">
 
@@ -21,7 +21,7 @@ O desastre, porém, não o levou a fazer mudanças estruturais no espaço. Quinz
 
 A capital paulista vivia dias de alagamentos, desmoronamentos, quedas de árvores e caos no trânsito. Os rios Tietê e Pinheiros transbordaram. Bob só conseguiu entrar no local por volta de meio-dia do dia seguinte, ou seja, quase 36 horas depois. “Meu estúdio ficou devastado, parecia cenário de pós-guerra. Sofá de cabeça para baixo, livros no chão, lama por tudo quanto é lado. A água alcançou mais de um metro de altura”, afirmou à reportagem do jornal Folha de S.Paulo.
 
-<Image caption="Foto publicada por Bob nas redes sociais que chamou a atenção de Burgi, do IMS" image="/o-processo/2.jpg" />
+<Image caption="Foto publicada por Bob nas redes sociais que chamou a atenção de Burgi, do IMS" image="/images/o-processo/02.jpg" />
 
 “Foi um vacilo, um erro de cálculo. Eu não tirei as coisas do estúdio porque não imaginei que isso pudesse acontecer novamente”, lembra o fotógrafo.
 
@@ -44,7 +44,7 @@ Juliana não pôde participar dessa primeira etapa emergencial, mas se dedicou a
 
 </Article>
 
-<Image credit="Foto Helena Wolfenson" caption="Uma das salas do estúdio da Vila Leopoldina, em São Paulo, em fevereiro de 2020, após a enchente" image="/o-processo/3.jpg" />
+<Image credit="Foto Helena Wolfenson" caption="Uma das salas do estúdio da Vila Leopoldina, em São Paulo, em fevereiro de 2020, após a enchente" image="/images/o-processo/03.jpg" />
 
 
 <Article letter="b" subtitle="A UTI do acervo">
@@ -91,7 +91,7 @@ Depois de cinco intensos dias de trabalho, os dois freezers estavam completament
 </Quote>
 </Article>
 
-<Image credit="Foto Bob Wolfenson" caption="Sala do fotógrafo invadida pela água" image="/o-processo/4.jpg" />
+<Image credit="Foto Bob Wolfenson" caption="Sala do fotógrafo invadida pela água" image="/images/o-processo/04.jpg" />
 
 
 <Article letter="c" subtitle="A caminho da recuperação">
@@ -127,7 +127,7 @@ Ambas são conservadoras-restauradoras, faltava uma documentalista com experiên
 
 </Article>
 
-<Image credit="Foto Helena Wolfenson" caption="Varal da restauração de 2023" image="/o-processo/5.jpg" />
+<Image credit="Foto Helena Wolfenson" caption="Varal da restauração de 2023" image="/images/o-processo/05.jpg" />
 
 
 <Article letter="d" subtitle="Vida nova, enfim">
@@ -144,11 +144,10 @@ Orgulhosas do trabalho realizado, Juliana, Talita e Fernanda gostariam que todo 
 
 Depois de entrar em estado de coma, o acervo de Bob sobreviveu –ao menos, a maior parte dele. Graças aos conservadores-restauradores, a memória está viva.
 
-<Image credit="Foto Helena Wolfenson" caption="Negativos que passaram pelo processo de recuperação" image="/o-processo/6.jpg" />
+<Image credit="Foto Helena Wolfenson" caption="Negativos que passaram pelo processo de recuperação" image="/images/o-processo/06.jpg" />
 
-<Image credit="Foto Helena Wolfenson" caption="A conservadora-restauradora Juliana Bittencourt durante o trabalho em 2023" image="/o-processo/7.jpg" />
+<Image credit="Foto Helena Wolfenson" caption="A conservadora-restauradora Juliana Bittencourt durante o trabalho em 2023" image="/images/o-processo/07.jpg" />
 
-<Image credit="Foto Helena Wolfenson" caption="O jovem Bob em duas fotos do seu acervo" image="/o-processo/8.jpg" />
-
+<Image credit="Foto Helena Wolfenson" caption="O jovem Bob em duas fotos do seu acervo" image="/images/o-processo/08.jpg" />
 
 </Article>

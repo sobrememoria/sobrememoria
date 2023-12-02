@@ -1,0 +1,111 @@
+---
+kicker: Ficha técnicas
+title: Creditos
+description: First post.
+---
+
+<script>
+import Image from '../../lib/components/Image.svelte';
+import Article from '../../lib/components/Article.svelte';
+import Quote from '../../lib/components/Quote.svelte';
+</script>
+
+<div class="content">
+<div class="content__main center">
+
+### Acervo fotográfico
+Bob Wolfenson
+
+### Coordenadora do projeto, conservadora-restauradora de fotografias
+Juliana Bittencourt Bovolenta
+
+### Consultor de conservação de fotografias
+Leandro Lopes Pereira de Melo
+
+### Documentalista, especialista em acervos fotográficos e artísticos, e desenvolvedora da base de dados Tainacan
+Fernanda Cicero de Sá
+
+### Conservadora de fotografias
+Talita Rennó Bruno
+
+### Desenvolvedora da base de dados Tainacan
+Giselle Rocha
+
+### Reprodução digital de fotografias
+Ana Tonezzer Ansbach
+
+### Produção executiva do projeto de conservação
+Morena Carvalho
+
+## EQUIPE REGISTRO FOTOGRÁFICO E VIDEOGRÁFICO
+
+### Direção
+Helena Wolfenson
+
+### Montagem
+Eduardo Resing
+
+### Direção de fotografia
+Helena Wolfenson
+
+### Assistente de câmera
+Rafael Frydman
+
+### Operação de som
+Rafael Frydman
+
+### Finalização de som
+Tomás Franco 
+
+### Colorização
+Lucas Almeida
+
+### Acessibilidade 
+all dub 
+
+### Voz 
+Isabel Wolfenson 
+
+### Design gráfico
+Thema (Thea Severino e Marcio Freitas)
+
+### Tratamento, impressão e produção das fotomontagens
+Chris Kehl
+
+### Textos
+Naief Haddad e Juliana Bittencourt Bovolenta
+
+### Programador do site
+Fernando Alencar
+
+### Assessoria de imprensa
+Renata Megale
+
+### Gestão de incentivo
+IC Cultura
+
+### Contabilidade
+Ec2 Contadores
+
+### Jurídico
+Aline Akemi Freitas
+
+## PARTICIPARAM DA AÇÃO DE SALVAMENTO
+### Instituto Moreira Salles
+Edna Katia Gaiardoni, Gabriella Moyle, Luiz Henrique Soares e Sergio Burgi
+
+### Arquivo Histórico Wanda Svevo da Fundação Bienal de São Paulo 
+Jéssica Chimatti Martins, Olivia Tamie Okasima e Raquel Moliterno
+
+### Estúdio Bob Wolfenson
+Aline Os, Cris Kehl, Cristiane Favacho e Mariza Guimarães
+
+### Voluntários
+Akemi Miyashita, Ana Francisca Salles Barros, Caetana Britto, Carolina Vergotti, Fernanda Auada, Joyce Melguiso, Leandro Melo, Stella Mariane Barboza do Couto e Talita Rennó
+
+### Agradecimento
+Rafael Amorim 
+
+</div>
+</div>
+

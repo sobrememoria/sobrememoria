@@ -1,0 +1,39 @@
+---
+kicker: Mini Doc
+title: Assista aos documentários sobre o projeto
+description: First post.
+---
+
+<script>
+import Image from '../../lib/components/Image.svelte';
+import Article from '../../lib/components/Article.svelte';
+import Quote from '../../lib/components/Quote.svelte';
+</script>
+
+<div style="padding:56.25% 0 0 0;position:relative; margin-bottom: 3rem;"><iframe src="https://player.vimeo.com/video/888907143?h=2a7a67eb7a&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="sobrememória"></iframe></div>
+
+<Article>
+
+**Vídeo mostra processo de recuperação do acervo de Bob Wolfenson**
+
+Ao longo de 18 minutos, vídeo dirigido por Helena Wolfenson apresenta o
+minucioso trabalho que deu vida nova a uma grande quantidade de
+materiais fotográficos atingidos por um enchente em 2020. Além de
+reflexões do fotógrafo Bob Wolfenson sobre seu acervo, vídeo traz
+comentários das atrizes Bruna Lombardi e Fernanda Torres e do editor
+Matinas Suzuki Jr. sobre os retratos em que aparecem.
+
+</Article>
+
+<div style="padding:56.25% 0 0 0;position:relative; margin: 3rem 0;"><iframe src="https://player.vimeo.com/video/888904954?h=2bea02d302&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="sobrememória - teaser"></iframe></div>
+
+<Article>
+
+**Versão mais curta apresenta recuperação do acervo do fotógrafo**
+
+Com apenas 4 minutos, vídeo dirigido por Helena Wolfenson mostra as
+principais ações para dar vida nova aos materiais fotográficos atingidos
+por um enchente em 2020. Com participação de Bob Wolfenson, Sergio
+Burgi e outros especialistas envolvidos no projeto.
+
+</Article>

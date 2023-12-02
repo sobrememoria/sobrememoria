@@ -1,4 +1,6 @@
 <script>
+	import Share from './Share.svelte';
+
 	$: show = false;
 
 	const handleButton = () => {
@@ -8,26 +10,11 @@
 
 <nav>
 	<div id="menuToggle">
-		<!--
-    A fake / hidden checkbox is used as click reciever,
-    so you can use the :checked selector on it.
-    -->
 		<input type="checkbox" checked={show} on:change={handleButton} />
-
-		<!--
-    Some spans to act as a hamburger.
-
-    They are acting like a real hamburger,
-    not that McDonalds stuff.
-    -->
 		<span class="bar"></span>
 		<span class="bar"></span>
 		<span class="bar"></span>
 
-		<!--
-    Too bad the menu has to be inside of the button
-    but hey, it's pure CSS magic.
-    -->
 		{#if show}
 			<div id="menu">
 				<svg
@@ -43,6 +30,8 @@
 					><defs><clipPath id="a"><path fill="#fff" d="M0 0h181.92v55.27H0z" /></clipPath></defs
 					></svg
 				>
+
+				<Share showHorizontal={true} />
 				<ul>
 					<li>
 						<a href="/"><span class="arrow">→</span> Home</a>
@@ -57,7 +46,10 @@
 						<a href="/quem-e-quem"><span class="arrow">→</span> Quem é quem</a>
 					</li>
 					<li>
-						<a href="/mini-doc"><span class="arrow">→</span> Mini-doc</a>
+						<a href="/a-recuperacao"><span class="arrow">→</span> A recuperação</a>
+					</li>
+					<li>
+						<a href="/documentario"><span class="arrow">→</span> Mini-doc</a>
 					</li>
 					<li>
 						<a href="/fotografias"><span class="arrow">→</span> Fotografias</a>
@@ -66,7 +58,7 @@
 						<a href="/creditos"><span class="arrow">→</span> Créditos</a>
 					</li>
 				</ul>
-				<div class="menu-footer">
+				<!-- <div class="menu-footer">
 					<a href="/downloads/manual.pdf">
 						<div class="item">
 							<div>
@@ -103,7 +95,7 @@
 							Áudio completo<br />da cartilha [MP3]
 						</div>
 					</a>
-				</div>
+				</div> -->
 			</div>
 		{/if}
 	</div>

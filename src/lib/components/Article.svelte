@@ -1,12 +1,20 @@
 <script>
+	import Share from './Share.svelte';
+
+	export let title;
 	export let letter;
 	export let subtitle;
 </script>
 
 <section class="article-section">
 	<aside class="aside">
-		<span class="letter">| {letter} |</span>
-		<h2>{subtitle}</h2>
+		{#if letter}
+			<span class="letter">| {letter} |</span>
+		{/if}
+		{#if subtitle}
+			<h2>{subtitle}</h2>
+		{/if}
+		<Share />
 	</aside>
 	<div class="content">
 		<slot />

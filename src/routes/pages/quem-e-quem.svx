@@ -1,0 +1,94 @@
+---
+kicker: Quem é quem
+title: Saiba mais sobre os principais nomes envolvidos, em ordem alfabética
+description: First post.
+---
+
+<script>
+import Image from '../../lib/components/Image.svelte';
+import Article from '../../lib/components/Article.svelte';
+import Quote from '../../lib/components/Quote.svelte';
+import People1 from '../../lib/assets/quem-e-quem/01.jpg';
+import People2 from '../../lib/assets/quem-e-quem/02.jpg';
+import People3 from '../../lib/assets/quem-e-quem/03.jpg';
+import People4 from '../../lib/assets/quem-e-quem/04.jpg';
+import People5 from '../../lib/assets/quem-e-quem/05.jpg';
+import People6 from '../../lib/assets/quem-e-quem/06.jpg';
+</script>
+
+<div class="content">
+<div class="content__main center">
+
+<Image image={People1} />
+
+## Bob Wolfenson
+
+Com mais de 50 anos de carreira, é um dos mais conhecidos fotógrafos de retratos, de moda e de publicidade do Brasil. Expôs em prestigiadas instituições do país, como Masp, Centro Cultural Maria Antonia, Museu de Arte Moderna de Salvador e Museu de Fotografia de Fortaleza. Entre seus muitos livros, destacam-se “Antifachada”, “Belvedere”, “Desnorte” e “O Livro Falado”. É vencedor de prêmios de fotografia como os concedidos pela Funarte e pela Fundação Conrado Wessel.
+
+Depois de uma enchente que atingiu seu estúdio na Vila Leopoldina, em São Paulo, em 2005, o espaço foi novamente inundado em fevereiro de 2020, comprometendo parte expressiva do seu acervo. Seu novo estúdio fica na Vila Romana.
+
+<Image image={People2} />
+
+## FERNANDA CICERO DE SÁ
+
+É formada em artes plásticas pela faculdade Santa Marcelina e pós-graduada em criação e multimeios pela Anhembi Morumbi. Também se especializou em conservação e restauro no Senai.
+
+Atuou como pesquisadora na Pinacoteca do Estado de São Paulo e conservadora e documentalista no Centro de Memória e Informação do Museu da Imagem e do Som (MIS) e no Arquivo Histórico Wanda Svevo da Fundação Bienal de São Paulo.
+
+No projeto de recuperação do acervo do fotógrafo Bob Wolfenson, ao longo de 2023, ela exerceu a função de documentalista. Ou seja, Fernanda faz a análise das informações dos suportes fotográficos.
+
+## Gabriella Moyle
+
+É conservadora, pesquisadora e consultora. Graduada em história pela UFOP (Universidade Federal de Ouro Preto), especializou-se em conservação e restauração de bens culturais móveis pelo CECOR/UFMG. Atua em projetos de preservação e conservação do patrimônio cultural desde 2001 e em projetos de exposições de artes visuais desde 2008.
+
+Trabalhou no Instituto Moreira Salles (IMS) de 2008 a 2022, sendo responsável pelo trabalho de preservação, conservação preventiva, conservação e restauração ligado ao acervo do IMS, e a acervos de terceiros sob a guarda ou custódia temporária da instituição.
+
+Em fevereiro de 2020, foi uma das pessoas que coordenaram as primeiras ações de resgate e salvamento do acervo de Bob Wolfenson, dando início ao projeto que se desdobra desde então.
+
+<Image image={People3} />
+
+
+## Juliana Bittencourt
+
+Formada em fotografia pelo Centro Universitário Senac, especializou-se em conservação e restauração de fotografias na Escola Nacional de Conservação, Restauração e Museologia do Instituto Nacional de Antropologia e História do México. Mais tarde, fez um mestrado em museologia na USP.
+
+No exterior, atuou como conservadora no museu Frida Kahlo e na Fundación Televisa, ambos na Cidade do México, e como pesquisadora de acervos fílmicos na Filmoteca Espanhola, em Madri.
+
+De volta ao Brasil, atuou na Funarte e no Arquivo Histórico Wanda Svevo, da Bienal de São Paulo. Neste último, sob a orientação de Leandro Melo.
+Juliana coordenou o projeto de recuperação do acervo do fotógrafo Bob Wolfenson ao longo de 2023, trabalhando ao lado de Talita e Fernanda
+
+<Image image={People4} />
+
+
+## Leandro Melo
+
+Graduado em arquitetura e urbanismo pela USP, teve formação complementar em conservação-restauração de documentos gráficos e fotográficos, áreas em que atua há mais de 25 anos na elaboração e execução de projetos e, como docente, na formação de profissionais.
+
+Atualmente é supervisor de conservação do Arquivo Histórico Wanda Svevo da Fundação Bienal de São Paulo e é um dos coordenadores técnicos do Projeto Manuel Correia de Andrade, que realiza a conservação e catalogação do acervo doado pelo geógrafo ao Instituto de Estudos Brasileiros da Universidade de São Paulo (IEB/USP).
+
+Atuou ao longo de 2023 como consultor do projeto de restauração do acervo de Bob Wolfenson. Anteriormente, em fevereiro de 2020, foi um dos coordenadores das primeiras ações de resgate e salvamento dos arquivos do fotógrafo.
+
+<Image image={People5} />
+
+
+## Sergio Burgi
+
+Formado em ciências sociais pela USP em 1981, ano em que ingressou no mestrado em conservação fotográfica da School of Photographic Arts and Sciences, do Rochester Institute of Technology (EUA). É coordenador da área de fotografia do IMS (Instituto Moreira Salles) desde 1999.
+
+Burgi é organizador de livros como “Marcel Gautherot, Fotografias”, “Luciano Carneiro - Fotojornalismo e Reportagem” e “Marc Ferrez - Território e Imagem”.
+
+Ao ver uma publicação de Bob Wolfenson nas redes sociais sobre a enchente que havia tomado o seu estúdio, em fevereiro de 2020, Burgi mobilizou especialistas do IMS e de outras instituições para atuar no salvamento do acervo do fotógrafo. Nos dias seguintes, ele supervisionou as ações de recuperação dos arquivos.
+
+<Image image={People6} />
+
+
+## Talita Rennó
+
+Graduada em fotografia no Senac, atuou em projetos de preservação de coleções fotográficas do Museu do Ipiranga em equipe liderada por Leandro Melo.
+
+Também trabalhou com conservação de fotografias no Arquivo Público do Estado de São Paulo e no Masp. Na Cinemateca Brasileira, foi responsável por realizar a revisão de material cinematográfico.
+
+Ao longo de 2023, atuou como conservadora no projeto de recuperação do acervo de Bob Wolfenson, retirando os materiais do freezer e realizando o tratamento de conservação e o diagnóstico. Antes, em fevereiro de 2020, havia participado das primeiras ações de salvamento dos arquivos do fotógrafo.
+</div>
+</div>
+

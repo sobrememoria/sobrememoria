@@ -4,8 +4,8 @@
 	export let credit = '';
 </script>
 
-<figure>
-	<img src={image} alt={caption} />
+<figure class="image">
+	<img src={image} alt={caption} loading="lazy" />
 	<figcaption>
 		{#if caption}
 			{caption}
@@ -17,14 +17,14 @@
 </figure>
 
 <style lang="scss">
-	figure {
-		margin: 2em 0;
+	.image {
+		margin: 2em 0 4em 0;
 		padding: 0;
 	}
-	figure > img {
+	.image > img {
 		width: 100%;
 	}
-	figure > figcaption {
+	.image > figcaption {
 		font-size: 0.8rem;
 		font-weight: bold;
 		.credit {
@@ -32,5 +32,8 @@
 			font-weight: 400;
 			margin-left: 1em;
 		}
+	}
+	:global(.image + .image) {
+		margin-top: 4em;
 	}
 </style>

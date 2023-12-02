@@ -17,7 +17,7 @@
 			<div>
 				<div class="card">
 					<div class="image">
-						<img src="/o-processo/2.jpg" alt="Foto" />
+						<img src="/images/o-processo/02.jpg" alt="Foto" />
 					</div>
 					<div class="body">
 						<h3 class="title">o processo</h3>
@@ -27,7 +27,7 @@
 
 				<div class="card">
 					<div class="image">
-						<img src="https://picsum.photos/seed/1/195/144" alt="Foto" />
+						<img src="/images/passo-a-passo/01.jpg" alt="Foto" />
 					</div>
 					<div class="body">
 						<h3 class="title">passo-a-passo</h3>
@@ -37,7 +37,7 @@
 
 				<div class="card">
 					<div class="image">
-						<img src="https://picsum.photos/seed/1/195/144" alt="Foto" />
+						<img src="/images/quem-e-quem/01.jpg" alt="Foto" />
 					</div>
 					<div class="body">
 						<h3 class="title">quem é quem</h3>
@@ -47,7 +47,7 @@
 
 				<div class="card">
 					<div class="image">
-						<img src="https://picsum.photos/seed/1/195/144" alt="Foto" />
+						<img src="/images/a-recuperacao/01.jpg" alt="Foto" />
 					</div>
 					<div class="body">
 						<h3 class="title">A recuperação</h3>
@@ -57,7 +57,7 @@
 
 				<div class="card">
 					<div class="image">
-						<img src="https://picsum.photos/seed/1/195/144" alt="Foto" />
+						<img src="/images/documentario/01.jpg" alt="Foto" />
 					</div>
 					<div class="body">
 						<h3 class="title">mini-doc</h3>
@@ -67,7 +67,7 @@
 
 				<div class="card">
 					<div class="image">
-						<img src="https://picsum.photos/seed/1/195/144" alt="Foto" />
+						<img src="/images/fotografias/01.jpg" alt="Foto" />
 					</div>
 					<div class="body">
 						<h3 class="title">fotografias</h3>

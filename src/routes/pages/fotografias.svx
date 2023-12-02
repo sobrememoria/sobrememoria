@@ -1,0 +1,33 @@
+---
+kicker: Fotografias
+title: Veja seleção de imagens do processo
+description: First post.
+---
+
+<script>
+import Image from '../../lib/components/Image.svelte';
+import Article from '../../lib/components/Article.svelte';
+import Quote from '../../lib/components/Quote.svelte';
+</script>
+
+
+<Image credit="Foto Helena Wolfenson" image="/images/fotografias/01.jpg" />
+
+<Image credit="Foto Helena Wolfenson" image="/images/fotografias/02.jpg" />
+
+<Image credit="Foto Helena Wolfenson" image="/images/fotografias/03.jpg" />
+
+<Image credit="Foto Helena Wolfenson" image="/images/fotografias/04.jpg" />
+
+<Image credit="Foto Helena Wolfenson" image="/images/fotografias/05.jpg" />
+
+<Image credit="Foto Juliana Bittencourt" image="/images/fotografias/06.jpg" />
+
+<Image credit="Foto Juliana Bittencourt" image="/images/fotografias/07.jpg" />
+
+<Image credit="Foto Juliana Bittencourt" image="/images/fotografias/08.jpg" />
+
+<Image credit="Foto Juliana Bittencourt" image="/images/fotografias/09.jpg" />
+
+<Image credit="Foto Juliana Bittencourt" image="/images/fotografias/10.jpg" />
+

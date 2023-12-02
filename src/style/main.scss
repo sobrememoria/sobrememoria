@@ -19,6 +19,14 @@ body {
   color: $shade-900;
 }
 
+h1 {
+  font-weight: regular;
+}
+
+strong {
+  font-weight: bold;
+}
+
 .container {
   max-width: 1280px;
   margin: 0 auto;
@@ -57,6 +65,28 @@ body {
 .content {
   &__main {
     max-width: 630px;
+    margin: 0 auto;
+    &.center {
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 1.1rem;
+      line-height: 1;
+      margin-bottom: 1rem;
+      color: $shade-500;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 1rem;
+      line-height: 1;
+      font-weight: bold;
+    }
+
+    p {
+      margin-bottom: 1rem;
+    }
   }
 }
 
@@ -66,4 +96,33 @@ body {
   position: relative;
   color: $shade-100;
   padding: 1rem 0;
+}
+
+.space {
+  display: flex;
+  align-items: start;
+  .score {
+    color: $shade-500;
+    font-size: 60px;
+    line-height: 1;
+    max-width: 60px;
+    width: 100%;
+    @media (min-width: $layout-breakpoint-small) {
+      font-size: 60px;
+      max-width: 85px;
+    }
+    + div {
+      margin-left: 1rem;
+      @media (min-width: $layout-breakpoint-small) {
+        margin-left: 2rem;
+      }
+
+    }
+  }
+  + .space {
+    margin-top: 1rem;
+    @media (min-width: $layout-breakpoint-small) {
+      margin-top: 45px;
+    }
+  }
 }
